@@ -1,3 +1,5 @@
+https://drive.google.com/drive/folders/1OV3JC3R3cJfHo2m_TsdAIuxkdRj4nAcc?usp=sharing - > Drive with model and csv dataset
+
 https://www.kaggle.com/datasets/msambare/fer2013 - > DATA SET LINK 
 
 creating the virtual environment to the   install the libraies in the venv 
